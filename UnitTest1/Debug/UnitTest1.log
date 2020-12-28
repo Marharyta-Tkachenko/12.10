@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Project12.10\UnitTest1\UnitTest1.cpp(19,8): warning C4101: 'value': unreferenced local variable
+     Creating library C:\Student\ Tkachenko.Marharyta.IK11\Project12.10\Debug\UnitTest1.lib and object C:\Student\ Tkachenko.Marharyta.IK11\Project12.10\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Project12.10\Debug\UnitTest1.dll
